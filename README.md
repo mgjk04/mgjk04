@@ -10,5 +10,5 @@ My core academic interest lies in applying Computer Science Theory to the Scienc
 
 I am actively building my technical skillset to learn more about computational theory and software engineering:
 
-* **[computer-science-theory-and-applications](https://github.com)**: A centralized, research-oriented repository documenting my independent study and implementations of theory.
-  * **Machine Learning**: Actively working through [*An Introduction to Statistical Learning with Applications in Python (ISLR)*](https://statlearning.com).
+* **[computer-science-theory-and-applications](https://github.com/mgjk04/computer-science-theory-and-applications)**: A centralized, research-oriented repository documenting my independent study and implementations of theory.
+  * **Artificial Intelligence & Machine Learning**: Actively working through [*An Introduction to Statistical Learning with Applications in Python (ISLP)*](https://statlearning.com).
