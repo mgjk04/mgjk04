@@ -3,6 +3,7 @@
 I am a first-year undergraduate at the **National University of Singapore (NUS)** pursuing a **Bachelor of Computing in Computer Science** with a **Second Major in Life Sciences**. 
 
 My core academic interest lies in applying Computer Science Theory to the Sciences. My intended focus is to learn from biological systems using Bioinformatics and apply learned insights with Synthetic Biology.
+
 ---
 
 ## Current Focus: Learning
